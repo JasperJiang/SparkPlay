@@ -1,5 +1,3 @@
 # SparkPlay
 
-## Spark on Kubernetes
-
-document - <https://spark.apache.org/docs/latest/running-on-kubernetes.html>
+[Spark on K8s](SparkOnK8s/README.md)
